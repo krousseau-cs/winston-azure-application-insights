@@ -26,9 +26,9 @@
     "chai": "^3.4.1",
     "sinon": "^1.17.6"
   },
-  "dependencies": {
-    "applicationinsights": "0.17.1",
-    "winston": "^2.3.0"
+  "peerDependencies": {
+    "applicationinsights": "0.22.0",
+    "winston": "^2.3.1"
   },
   "bugs": {
     "url": "https://github.com/bragma/winston-azure-application-insights/issues"
